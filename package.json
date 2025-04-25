@@ -1,0 +1,30 @@
+{
+  "name": "dev-feedback",
+  "version": "1.0.0",
+  "description": "a basic backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharva-patil-23/dev-feedback.git"
+  },
+  "author": "atharva patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharva-patil-23/dev-feedback/issues"
+  },
+  "homepage": "https://github.com/atharva-patil-23/dev-feedback#readme",
+  "dependencies": {
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
+}
